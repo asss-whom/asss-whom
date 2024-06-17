@@ -1,3 +1,5 @@
+![My slogan](slogan.png "君子慎独，不欺暗室。卑以自牧，含章可贞。")
+
 ### Hi there, I'm Asss_whom! 👋
 
 I'm a student of Traditional Chinese Medicine with a passion for coding and development. Although I am currently focused on my studies, I have a keen interest in programming and enjoy exploring different programming languages and technologies.
