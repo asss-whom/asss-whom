@@ -2,7 +2,7 @@
 
 I'm a student of Traditional Chinese Medicine with a passion for coding and development. Although I am currently focused on my studies, I have a keen interest in programming and enjoy exploring different programming languages and technologies.
 
-**Languages:** Python & R
+**Languages:** Python & Rust
 
 Feel free to connect with me on Github and reach out if you have any interesting projects or collaborations to discuss!
 
